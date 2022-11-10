@@ -1,0 +1,6 @@
+# Ceci est une démo pour la masterclass de JUIN22 CDS 
+
+import pandas as pd 
+import seaborn as sns 
+
+df = pd.read_csv('titanic.csv')
